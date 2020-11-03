@@ -16,6 +16,7 @@ body {
 }
 
 .img-container {
+  height: 100%;
   min-height: 50vh;
   overflow: hidden;
   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0 0 50px rgba(0, 0, 0, 0.2);
@@ -27,6 +28,7 @@ body {
     object-fit: cover;
     transition: all 0.3s ease-out;
     cursor: pointer;
+    border-radius: 20px;
   }
 }
 
