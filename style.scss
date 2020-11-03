@@ -67,7 +67,6 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(0.5);
-  border-radius: 20px;
 
   &.open {
     transform: translate(-50%, -50%) scale(1);
